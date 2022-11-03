@@ -2,7 +2,7 @@
 
 ## This was a task to create a script to convert the data of each row a csv file to a json file, hash each of those json files in SHA-256 and append the hash in a new column of a new copy of the initial csv file.
 
-### This script was created using Team_Bevel.csv as a sample and the respective json files and new csv were created as seen in the folder
+## This script was created using Team_Bevel.csv as a sample. The respective json files and new csv were created as seen in the folder.
 
 ## To run the script: 
 - Clone the repository
